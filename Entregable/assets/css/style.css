@@ -1,0 +1,164 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: black;
+    background-color: rgb(173, 143, 63);
+    text-align: center;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    border-radius: 10px;
+    padding: 5px;
+}
+nav{
+    color: darkolivegreen;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border: 3px solid rgb(79, 99, 29);
+    text-align: center;
+}
+.navegador{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 120%;
+}
+.principal img{
+    width: 300px;
+    border-radius: 20px;
+    margin: 10px;
+    border: 3px solid rgb(173, 143, 63);
+}
+.subtitulo{
+    color: darkolivegreen;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    width: max-content;
+    text-align: center;
+    font-size: 100;
+    font-weight: 400;
+    margin: 10px;
+    border: 5px solid rgb(79, 99, 29);
+    border-radius: 20px;
+    padding: 5px;
+}
+.descripcion{
+    color: rgb(79, 99, 29);
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    text-align: center;
+    font-size: 80;
+    margin: 10px;
+    border: 5px solid rgb(79, 99, 29);
+    border-radius: 20px;
+    padding: 5px;
+}
+footer{
+    color: black;
+    background-color: rgb(173, 143, 63);
+    text-align: center;
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 5px;
+}
+.formulario{
+    background-color: blanchedalmond;
+    width: 20%;
+    text-align: center;
+}
+.formulario h2{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 150%;
+}
+.introduccion{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+
+}
+.desarrollo{
+    color: darkolivegreen;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+.indicaciones{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.maps{
+    width: 300px;
+    border-radius: 20px;
+}
+.unlt{
+    color: darkolivegreen;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.unlt img{
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid rgb(173, 143, 63);
+    margin: 10px;
+}
+.doslt{
+    color: darkolivegreen;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.doslt img{
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid rgb(173, 143, 63);
+    margin: 10px;
+}
+.treslt{
+    color: darkolivegreen;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.treslt img{
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid rgb(173, 143, 63);
+    margin: 10px;
+}
+.cincolt{
+    color: darkolivegreen;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cincolt img{
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid rgb(173, 143, 63);
+    margin: 10px;
+}
+.pieDeFoto{
+    border: 4px solid rgb(79, 99, 29);
+    background-color: blanchedalmond;
+    width: max-content;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+.comprar{
+    color: darkolivegreen;
+    border: 2px solid rgb(79, 99, 29);
+    background-color: blanchedalmond;
+    width: max-content;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
